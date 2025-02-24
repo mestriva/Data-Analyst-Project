@@ -1,0 +1,6 @@
+This project help to analyze music store anaysis using SQL.
+Its having database tables like Emploee,Invoice,CUSTOMER,ARTIST,ALBUM,TRACK ,INVOICE_LINE.
+
+Based on this database, find out music related data using sql queries.
+Queries related to sql are in file  Music_project_sql.sql  
+
